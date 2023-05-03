@@ -408,3 +408,13 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
 * [Yale University](https://cpsc.yale.edu/research/research-areas/programming-languages)
   - Topics
     * [DeepSpec](https://deepspec.org/)
+
+* [SUNY at Buffalo](https://cse.buffalo.edu)
+  - Topics
+    * Type Systems
+    * Concurrency
+    * Compilers
+    * Language-Based Security
+  - Faculty
+    * [Lukasz (Luke) Ziarek](https://cse.buffalo.edu/~lziarek/)
+    * [Andrew K. Hirsch](https://akhirsch.science)
