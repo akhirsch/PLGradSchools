@@ -417,3 +417,4 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
   - Faculty
     * [Lukasz Ziarek](https://cse.buffalo.edu/~lziarek/)
     * [Andrew K. Hirsch](https://akhirsch.science)
+    * [Qianchuan Ye](https://scholar.google.com/citations?user=IZisiCwAAAAJ&hl=en)
