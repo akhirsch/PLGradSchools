@@ -368,7 +368,8 @@ Feel free to make a PR adding other schools/faculty/topics to the list. Or remov
     * [Satish Narayanaswamy](https://web.eecs.umich.edu/~nsatish/)
     * [Stephen Oney](http://from.so/)
     * [Westley Weimer](https://web.eecs.umich.edu/~weimerw/)
-    * [Xinyu Wang](https://www.cs.utexas.edu/~xwang/) (incoming Fall 2020)
+    * [Xinyu Wang](https://www.cs.utexas.edu/~xwang/)
+    * [Max New](https://maxsnew.com/)
 
 * [University of Pennsylvania](http://www.cis.upenn.edu/~plclub/)
   - Topics
